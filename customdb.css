@@ -1,0 +1,39 @@
+  
+/*Sets default user popout position to center.*/
+
+.userPopout-3XzG_A {
+	--user-popout-position: center;
+}
+
+    /*Matt.#0420*/
+
+[user_by_bdfdb*="146969728919797760"],
+[data-user-id*="146969728919797760"] {
+	--user-background: url('https://i.imgur.com/ecIeNZr.png');
+}
+    
+    /*MorningGloryFreshOfHexagon#6122*/
+
+[user_by_bdfdb*="268108760537497600"],
+[data-user-id*="268108760537497600"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/772447262592466946/817124131015098458/2d62114b-0c75-4eb7-a90c-59c020785b4a-profile_banner-480.png');
+
+}
+
+
+    /*ilbigboss#7466*/
+
+[user_by_bdfdb*="422797630603657216"],
+[data-user-id*="422797630603657216"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/772447262592466946/817124190314037309/T-Ee-2.gif');
+
+}
+
+
+    /*Reyz0#6085*/
+
+[user_by_bdfdb*="351819199724650497"],
+[data-user-id*="351819199724650497"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/772447262592466946/817124190314037309/T-Ee-2.gif');
+
+}
